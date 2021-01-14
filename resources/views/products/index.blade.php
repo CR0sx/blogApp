@@ -21,8 +21,8 @@
 
     <table class="table table-bordered">
         <tr>
-            <th>No</th>
-            <th>Name</th>
+            <th>Nomor</th>
+            <th>Nama</th>
             <th>Details</th>
             <th width="280px">Action</th>
         </tr>
